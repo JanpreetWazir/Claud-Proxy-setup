@@ -76,7 +76,7 @@ This guide will help you:
    ⚠️ **Security Note**: For production, restrict port 8080 to your IP only instead of 0.0.0.0/0
 
 3. **Note Your Public IP:**
-   - Find it in EC2 console (e.g., `15.207.112.170`)
+   - Find it in EC2 console (e.g., `10.10.10.10`)
    - This will be your `SERVER_IP`
 
 ### 2. Connect to Your Server
